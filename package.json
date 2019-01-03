@@ -6,7 +6,10 @@
     "build": "tsc",
     "start": "node ./dist",
     "test": "tsc && tape dist/**/*.spec.js.",
-    "lint": "eslint --ext .ts ./src"
+    "lint": "eslint --ext .ts ./src",
+    "assigned": "echo TODO",
+    "weekly-activity": "echo TODO",
+    "monthly-activity": "echo TODO"
   },
   "keywords": [
     "node.js",
