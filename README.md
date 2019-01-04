@@ -78,13 +78,13 @@ This view is useful to understand the overall activity of the team members (just
 > npm run weekly-activity
 
 DEVELOPER_1
-  open:     + - =
-  closed:   ** +++++ - ==
+  open:     +-=
+  closed:   **+++++-==
   comments: 6
 
 DEVELOPER_2
   open:     *****
-  closed:   -- ====
+  closed:   --====
   comments: 0
 ```
 ### Example json
