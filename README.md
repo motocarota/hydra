@@ -15,7 +15,6 @@ this project is still a work in progress, so lot of things may change without no
 npm install
 export ACCESS_TOKEN=PASTE_ACCESS_TOKEN_HERE
 export ACCOUNT_ID=999999999
-
 ```
 for text format
 ```
