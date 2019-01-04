@@ -5,10 +5,17 @@ a CLI application that helps managing a team with Basecamp
 - synthetyze team's assigned tasks
 - synthetyze team's recent activity
 
+Sometimes it's hard to follow the progress of a whole development team, and because of this some tasks remain unfinished for a long time.
+
+With basecamp you can see all the tasks assignments by navigating to https://3.basecamp.com/4023585/reports/todos/assigned/<developer_id> but this approach does not scale well with large teams; you need to open multiple pages, and you don't have a clear idea of the "age" of a task unless you open each one.
+
+This tool's objective is to give you a visual representation of the team status advancement, and to never forget anymore about any past assignemnt.
+
 ```
 NOTE
 this project is still a work in progress, so lot of things may change without notice
 ```
+
 ## Instructions
 
 ```
